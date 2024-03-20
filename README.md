@@ -1,5 +1,10 @@
 # 내일배움캠프 사전캠프 1주차 <img src="https://img.shields.io/badge/Unity-FFFFFF?style=flat&logo=Unity&logoColor=5D5D5D"/> <img src="https://img.shields.io/badge/C%23-5D5D5D?style=flat&logo=csharp&logoColor=FFFFFF"/>   
 ## 🖥 개발환경    
+* CPU : I7-13700K    
+* RAM : DDR4 64GB 3800Mhz    
+* VGA : NVIDIA RTX 3090 GDDR6X 24GB    
+* OS : MICROSOFT WINDOWS 11    
+* Engine : UNITY 2021.3.16f1
 
 ## 💧 빗물받는 르탄이    
 <img src="/IMGS/game.gif" width="50%" height="50%" title="game" alt="Game"></img>    
