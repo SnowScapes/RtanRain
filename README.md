@@ -1,4 +1,4 @@
-# 내일배움캠프 사전캠프 1주차 <img src="https://img.shields.io/badge/Unity-FFFFFF?style=flat&logo=Unity&logoColor=5D5D5D"/><img src="https://img.shields.io/badge/c#-FFFFFF?style=flat&logo=csharp&logoColor=5D5D5D"/>   
+# 내일배움캠프 사전캠프 1주차 <img src="https://img.shields.io/badge/Unity-FFFFFF?style=flat&logo=Unity&logoColor=5D5D5D"/><img src="https://img.shields.io/badge/csharp-FFFFFF?style=flat&logo=C#&logoColor=5D5D5D"/>   
 ## 빗물받는 르탄이    
 <img src="/IMGS/game.gif" width="50%" height="50%" title="game" alt="Game"></img>    
 #### 제한시간 30초 이내에 빨간색 빗물을 피하며 파란색 빗물을 받아 최대한 높은 점수를 받는 것이 목표인 게임    
