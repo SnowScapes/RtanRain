@@ -21,7 +21,7 @@
   <summary><b>코드 리뷰</summary>
 
 ##### GameManager.cs    
-```
+```csharp
 public class GameManager : MonoBehaviour
 {
     public static GameManager Instance;
@@ -77,7 +77,7 @@ public class GameManager : MonoBehaviour
 ```
 
 ##### PlayerController.cs
-```
+```csharp
 public class PlayerController : MonoBehaviour
 {
     SpriteRenderer renderer;
