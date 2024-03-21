@@ -19,9 +19,8 @@
 ---
 <details>
 <summary>
-
+  
 ## 코드 
-
 </summary>
   
 ##### GameManager.cs   
