@@ -264,7 +264,7 @@ public class PlayerController : MonoBehaviour
     }
 }
 ```
-> 기존 코드는 Application.targetFrameRate = 60 을 통해 최대 프레임을 60 프레임으로 고정해두어 60프레임을 유지할 수 있는 사양의 유저끼리는 이동속도가 같지만, 프레임이 그보다 떨어진다면 그만큼 속도가 느려진다.
+> ###### 기존 코드는 Application.targetFrameRate = 60 을 통해 최대 프레임을 60 프레임으로 고정해두어 60프레임을 유지할 수 있는 사양의 유저끼리는 이동속도가 같지만, 프레임이 그보다 떨어진다면 그만큼 속도가 느려진다.
 > * 플레이어의 위치를 이동하는 코드에 추가로 Time.deltaTime을 곱해주어 프레임과 상관없이 고정된 속도로 움직일 수 있도록 수정.
 > * Time.deltaTime은 1 미만의 소수이기 때문에 플레이어의 이동속도를 결정하는 direction 변수가 1 미만일 경우 속도가 굉장히 느려지기 때문에 1 이상의 수로 수정.
     </details>
