@@ -17,14 +17,12 @@
 > 3. 받은 파란색 빗물은 크기에 따라 1,2,3 점을 얻고, 빨간색 빗물은 -5 점을 얻는다.    
 > 4. 30초 이내에 최대한 높은 점수를 받아보자.
 ---
-## 코드 
+## 기존 코드
 <details>
 <summary>    
 <b>GameManager.cs</b>
 </summary>
 
-  
- 
 ```csharp
 public class GameManager : MonoBehaviour
 {
@@ -80,7 +78,7 @@ public class GameManager : MonoBehaviour
 }
 ```
 
-##### PlayerController.cs
+<summary><b>PlayerController.cs</b></summary>
 ```csharp
 public class PlayerController : MonoBehaviour
 {
