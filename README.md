@@ -123,5 +123,3 @@ public class PlayerController : MonoBehaviour
     }
 }```    
 
-</details>
-</details>
