@@ -264,6 +264,6 @@ public class PlayerController : MonoBehaviour
     }
 }
 ```
-* 기존 코드는 Application.targetFrameRate = 60 을 통해 최대 프레임을 60 프레임으로 고정해두어 60프레임을 유지할 수 있는 사양의 유저끼리는 이동속도가 같지만, 프레임이 그보다 떨어진다면 그만큼 속도가 느려진다.
+> 기존 코드는 Application.targetFrameRate = 60 을 통해 최대 프레임을 60 프레임으로 고정해두어 60프레임을 유지할 수 있는 사양의 유저끼리는 이동속도가 같지만, 프레임이 그보다 떨어진다면 그만큼 속도가 느려진다.
     </details>
 </details>
