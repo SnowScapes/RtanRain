@@ -18,11 +18,9 @@
 > 4. 30초 이내에 최대한 높은 점수를 받아보자.
 ---
 <details>
-  <summary>
+<summary>
 
 ## 코드 
-    
-  </summary>
 
 <summary>
   
@@ -125,4 +123,6 @@ public class PlayerController : MonoBehaviour
         transform.position += Vector3.right * direction; // 캐릭터가 오른쪽으로 계속 이동
     }
 }```
+
+</summary>
 </details>
