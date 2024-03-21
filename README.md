@@ -22,11 +22,10 @@
 
 ## 코드 
 
-<summary>
+</summary>
   
 ##### GameManager.cs   
   
-</summary>
  
 ```csharp
 public class GameManager : MonoBehaviour
@@ -124,5 +123,4 @@ public class PlayerController : MonoBehaviour
     }
 }```
 
-</summary>
 </details>
