@@ -199,7 +199,7 @@ public class Rain : MonoBehaviour
 <details>
     <summary><b>RetryButton.cs</b></summary>
 
-    ```csharp
+```csharp
 public class RetryButton : MonoBehaviour
 {
     //MainScene이라는 이름의 Scene을 로드
