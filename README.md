@@ -18,12 +18,14 @@
 > 4. 30초 이내에 최대한 높은 점수를 받아보자.
 ---
 <details>
-<summary>    
 
 ## 코드 
-</summary>
-  
+
+<summary>    
+
 ##### GameManager.cs   
+</summary>
+
   
  
 ```csharp
