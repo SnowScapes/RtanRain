@@ -20,8 +20,7 @@
 ## 코드 
 <details>
 <summary>    
-
-##### GameManager.cs   
+<b>GameManager.cs</b>
 </summary>
 
   
