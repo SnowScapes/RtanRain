@@ -121,5 +121,6 @@ public class PlayerController : MonoBehaviour
         transform.position += Vector3.right * direction; // 캐릭터가 오른쪽으로 계속 이동
     }
 }```
+
 </details>
 </details>
