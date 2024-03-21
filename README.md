@@ -21,7 +21,7 @@
   <summary><b>코드 리뷰</summary>
 
 ##### GameManager.cs    
-<pre><code>
+```
 public class GameManager : MonoBehaviour
 {
     public static GameManager Instance;
@@ -74,10 +74,10 @@ public class GameManager : MonoBehaviour
         totalScoreText.text = totalScore.ToString(); // totalScore에 매개변수 score를 더해주고 totalScoreText에 적용
     }
 }
-</code></pre>
+```
 
 ##### PlayerController.cs
-<pre><code>
+```
 public class PlayerController : MonoBehaviour
 {
     SpriteRenderer renderer;
@@ -115,6 +115,5 @@ public class PlayerController : MonoBehaviour
 
         transform.position += Vector3.right * direction; // 캐릭터가 오른쪽으로 계속 이동
     }
-}
-</code></pre>
+}```
 </details>
