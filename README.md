@@ -18,10 +18,7 @@
 > 4. 30초 이내에 최대한 높은 점수를 받아보자.
 ---
 <details>
-<summary>
-    
-## 기존 코드
-</summary>
+<summary><h2>기존 코드</h2></summary>
 
 
 <details>
