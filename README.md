@@ -21,6 +21,7 @@
 ## 📍 기존 코드
 <details><summary><b>접기/펼치기</b></summary>
 
+    
 <details>
 <summary>    
 <b>GameManager.cs</b>
